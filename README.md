@@ -10,5 +10,4 @@ Schema library 1: https://github.com/trevor-dolby-at-ibm-com/ace-submodule-schem
 
 Originally created for a [blog post](https://community.ibm.com/community/user/integration/blogs/trevor-dolby/2023/04/03/automated-multi-repo-app-connect-enterprise-ace-ba).
 
-This repo is intended to be used as part of the application itself, and not 
-as an independent ACE object. 
+This repo is intended to be used as part of the application, and not as an independent ACE object. 
